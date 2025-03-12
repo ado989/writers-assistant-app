@@ -1,1 +1,0 @@
-# writers-assistant-app
